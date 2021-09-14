@@ -1,0 +1,16 @@
+﻿  MainForm.cpp
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(506,37): warning C4101: e: неиспользованная локальная переменная
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(536,36): warning C4101: e: неиспользованная локальная переменная
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(664,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(666,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(672,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(778,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(780,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(786,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(889,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(891,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KING\source\repos\Solution\CoursWork\MainForm.h(897,35): warning C4101: e: неиспользованная локальная переменная
+  help.cpp
+  Создание кода...
+  graph.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CoursWork.vcxproj -> C:\Users\KING\source\repos\Solution\Debug\CoursWork.exe

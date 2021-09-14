@@ -1,0 +1,4 @@
+C:\Users\KING\source\repos\Solution\CoursWork\Debug\CoursWork.vcxprojAssemblyReference.cache
+C:\Users\KING\source\repos\Solution\CoursWork\Debug\CoursWork.MainForm.resources
+C:\Users\KING\source\repos\Solution\CoursWork\Debug\CoursWork.vcxproj.GenerateResource.cache
+C:\Users\KING\source\repos\Solution\CoursWork\Debug\CoursWork.help.resources
